@@ -1,14 +1,14 @@
 .event-list-wrapper {
   width: 100%;
   height: auto;
-  background-color: var(--bg-color);
+  background-color: rgb(255, 255, 255);
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 .event-list {
-  width: 500px;
+  width: 100px;
   display: flex;
   flex-direction: column;
   justify-content: center;

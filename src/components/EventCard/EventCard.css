@@ -6,11 +6,12 @@
   align-items: center;
   gap: 24px;
   padding: 32px;
-  border-radius: 18px;
-  border: 2px solid var(--primary-color);
+  border-radius: 8px;
+  border: 1px solid #e7e5e5;;
 }
 .card:hover {
   box-shadow: 0 8px 12px rgba(0, 0, 0, 0.187);
+  transition: 0.2s ease;
 }
 .card img {
   width: 280px;
